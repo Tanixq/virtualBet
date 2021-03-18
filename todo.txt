@@ -1,0 +1,6 @@
+create folder stucture. --- Done
+install mix web pack. --- Done
+stepup express. --- Done
+setup ejs. --- Done
+design home page. --- Done
+design profile page 

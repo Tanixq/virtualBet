@@ -1,0 +1,43 @@
+$border-r1 : 5px;
+
+body{
+   background-color: #C4C4C4 ;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: $border-r1;
+    background-color: #C4C4C4 ;
+}
+
+.login-input{
+    border-radius: $border-r1;
+    border-style: none;
+    padding: 0.5rem;
+    background-color: #C4C4C4 ;
+}
+
+.navbar{
+    margin-top: 1.5rem;
+    background-color: #DBA95D;
+    border-radius: 5px;
+}
+
+.login-btn{
+    &:hover{
+        background-color: #C4C4C4 ;
+        color: black;
+    }
+}
+
+.home-main-right{
+    border-radius: $border-r1;
+    background-color: #C5A77B;
+}
+
+.home-main-left{
+    border-radius: $border-r1;
+    background-color: #D68383;
+    margin-left: 2.5rem;
+}
